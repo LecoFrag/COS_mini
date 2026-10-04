@@ -1,0 +1,16 @@
+{
+  "name": "Atlas de Baróvia",
+  "short_name": "Baróvia",
+  "description": "Personagens, capítulos, a história do vale e a jornada da campanha de Maldição de Strahd.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1314",
+  "theme_color": "#0f1314",
+  "icons": [
+    {"src": "img/icone-180.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "img/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
